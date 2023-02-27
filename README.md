@@ -17,3 +17,17 @@ A modern real estate application to search for popular properties in the UAE.
 ## APIs used
 
 - [Bayut API](https://rapidapi.com/apidojo/api/bayut)
+
+## Screenshots
+
+![Image-1](./assets/project-screenshots/image-1.png)
+
+![Image-2](./assets/project-screenshots/image-2.png)
+
+![Image-3](./assets/project-screenshots/image-3.png)
+
+![Image-4](./assets/project-screenshots/image-4.png)
+
+![Image-5](./assets/project-screenshots/image-5.png)
+
+![Image-6](./assets/project-screenshots/image-6.png)
